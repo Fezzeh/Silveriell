@@ -1,0 +1,2 @@
+1402/04/04
+this file has been created to revise all git knowledge learned so far.
